@@ -1,1 +1,1 @@
-addInfo("#chatdemo_info","1.0","1",1483006,1407401160);
+addInfo("#chatdemo_info","1.0","1",1483006,1407410820);

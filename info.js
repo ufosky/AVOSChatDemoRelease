@@ -1,1 +1,1 @@
-callback({"aid":"#chatdemo","version":"1.0","build":"1","size":1483006,"time":1407414660});
+addInfo("#chatdemo","1.0","1",1483006,1407414660);
